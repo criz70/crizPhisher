@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	Criz_Aravind 
 ##   Version 	: 	2.3.4
-##   Github 	: 	https://github.com/htr-tech/zphisher
+##   Github 	: 	https://github.com/criz70/crizPhisher.git
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -76,7 +76,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2022  Criz (https://github.com/criz70/crizPhisher.git)
 ##
 
 ##   THANKS TO :
